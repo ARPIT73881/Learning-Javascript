@@ -1,0 +1,22 @@
+// debugger;
+const firstName = "Akash";
+const firstName2 = "Aka" + "sh";
+const lastName = "Singh";
+const userAge = 15;
+const birthYear = 2000;
+const isGraduate = false;
+const hasJob = true;
+const myNull = null;
+const myUndefined = undefined;
+const emptyString = "";
+
+console.log(`firstName = ${firstName} and type = ${typeof firstName}`);
+console.log(`firstName2 = ${firstName2} and type = ${typeof firstName2}`);
+console.log(`lastName = ${lastName} and type = ${typeof lastName}`);
+console.log(`userAge = ${userAge} and type = ${typeof userAge}`);
+console.log(`birthYear = ${birthYear} and type = ${typeof birthYear}`);
+console.log(`isGraduate = ${isGraduate} and type = ${typeof isGraduate}`);
+console.log(`hasJob = ${hasJob} and type = ${typeof hasJob}`);
+console.log(`myNull = ${myNull} and type = ${typeof myNull}`);
+console.log(`myUndefined = ${myUndefined} and type = ${typeof myUndefined}`);
+console.log(`emptyString = ${emptyString} and type = ${typeof emptyString}`);
