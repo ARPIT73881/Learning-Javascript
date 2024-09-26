@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-   <a href="https://www.youtube.com/playlist?list=PLfEr2kn3s-bo4LwlbyZugHPavhcdW8YMC" target="_blank"><img src="https://i.ibb.co/kSv933b/js.png" alt="Main-Cover" border="0"></a>
+   <a href="https://www.youtube.com/playlist?list=PLfEr2kn3s-bo4LwlbyZugHPavhcdW8YMC" target="_blank"><img src="https://github.com/user-attachments/assets/87d19561-235c-4a89-9347-0ef5b89595c3" alt="Main-Cover" border="0"></a>
   <br />
 
 # Learning JavaScript
